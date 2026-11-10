@@ -1,0 +1,8 @@
+parameter	value
+input_directory	data/primate_genomes
+ACRO_definition	annotation contains ACRO1
+HSAT1A_definition	annotation equals HSat1A
+species_level_tree	((Sumatran_orangutan,Bornean_orangutan),(Gorilla,(Human,(Chimpanzee,Bonobo))));
+PGLS_primary_branch_lengths	Grafen
+permutations	100000
+seed	20261021

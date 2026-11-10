@@ -1,0 +1,10 @@
+cohort	cluster	array_cluster_groups	local_l1pa10_estimable	local_l1pa10_estimable_fraction	distal_backbone_estimable	distal_backbone_estimable_fraction
+all_arrays	H1	1776	548	0.30855855855855857	1776	1.0
+all_arrays	H2	1177	1177	1.0	1177	1.0
+all_arrays	H3	754	750	0.9946949602122016	754	1.0
+mixed_H_cluster_arrays	H1	912	161	0.17653508771929824	912	1.0
+mixed_H_cluster_arrays	H2	887	887	1.0	887	1.0
+mixed_H_cluster_arrays	H3	26	25	0.9615384615384616	26	1.0
+single_H_cluster_arrays	H1	864	387	0.4479166666666667	864	1.0
+single_H_cluster_arrays	H2	290	290	1.0	290	1.0
+single_H_cluster_arrays	H3	728	725	0.9958791208791209	728	1.0

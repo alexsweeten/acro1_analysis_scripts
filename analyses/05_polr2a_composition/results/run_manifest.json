@@ -1,0 +1,18 @@
+{
+  "analysis": "ACRO1--POLR2A CTD codon-normalized amino-acid-composition JSD test",
+  "generated_utc": "2026-11-03T19:31:32.180193+00:00",
+  "replicates": 1000000,
+  "seed": 20261103,
+  "inputs": {
+    "inputs/acro1_species_balanced_allele_consensus.tsv": "bfb81417dbf5b8063789dec763d2f25c0bf51940db66816624292bf1a335b15f",
+    "inputs/polr2a_references.tsv": "8425eeb0d377da177c7cf6790fda1914d7a9e758edfdcf78d6fc0134058431bf",
+    "inputs/hg002_genome_base_composition.tsv": "97f1ab22245649272853eea12f8f51b5f06a8af8e3b4997313e0774fd97c0ac9"
+  },
+  "simulator_sha256": "8eb5a21693c2c67e77d767e701f3f3cd173a1268cff4640a4923b970ac72c875",
+  "notes": [
+    "The three species-balanced ACRO1 allele consensuses are pooled with equal allele weight.",
+    "Stop codons are excluded and the 20 sense-amino-acid frequencies are renormalized.",
+    "The exact dinucleotide-count shuffle uses a randomized Euler trail and is not a uniform draw over all admissible sequences.",
+    "Empirical P values are lower-tail plus-one estimates: (count[JSD_null <= JSD_observed] + 1)/(B + 1)."
+  ]
+}

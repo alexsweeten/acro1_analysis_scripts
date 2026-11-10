@@ -1,0 +1,8 @@
+cohort	arrays	mean_intra_minus_inter_percentage_points	median_intra_minus_inter_percentage_points	paired_wilcoxon_statistic	paired_wilcoxon_one_sided_p	alternative
+All great apes	379	-41.150320780648066	-38.66910778336024	372.0	6.947781923292253e-63	intra-array divergence < species-matched inter-array divergence
+Human	31	-26.035663764723534	-29.278647599210924	0.0	5.867514406330798e-07	intra-array divergence < species-matched inter-array divergence
+Gorilla	53	-21.377827464602532	-25.041451901137805	178.0	9.75743523933629e-07	intra-array divergence < species-matched inter-array divergence
+Chimpanzee	81	-39.0574072038487	-37.25926454660086	6.0	3.354411313426924e-15	intra-array divergence < species-matched inter-array divergence
+Bonobo	139	-43.762290947141764	-37.21059562910604	1.0	7.546177985536887e-25	intra-array divergence < species-matched inter-array divergence
+Sumatran orangutan	32	-56.08869528149724	-55.83258371804091	0.0	2.3283064365386963e-10	intra-array divergence < species-matched inter-array divergence
+Bornean orangutan	43	-60.79987138053242	-62.442701845690664	0.0	5.5990852222092974e-09	intra-array divergence < species-matched inter-array divergence

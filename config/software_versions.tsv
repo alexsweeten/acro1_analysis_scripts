@@ -1,0 +1,14 @@
+software	version_or_release	role
+NTRiage	v0.3.0; commit 4a4a385	ACRE segmentation and composition clustering
+Python	3.12 recommended	Custom analysis scripts
+R	4.4.1	Statistical analysis and visualization
+MAFFT	7.526	Multiple-sequence alignment
+IQ-TREE	3.0.1	Maximum-likelihood phylogenies
+minimap2	2.26-r1175	Sequence and anchor mapping
+HMMER/nhmmer	3.4	L1PA10 and ACRO1 homology searches
+Mash	2.2.2	HPRC intra-array sequence divergence
+ModDotPlot	1.0.0	HPRC sequence-transition screening
+RepeatMasker	see manuscript environment archive	Repeat annotation
+Tandem Repeat Finder	see manuscript environment archive	Marmoset tandem-periodicity analysis
+SVbyEye	0.99.0	HSA19 synteny visualization
+

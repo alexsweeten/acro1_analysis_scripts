@@ -1,0 +1,42 @@
+name: acro1-analysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - r-base=4.4
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - pysam
+  - biopython
+  - edlib
+  - psutil
+  - pytest
+  - r-data.table
+  - r-ggplot2
+  - r-ape
+  - r-nlme
+  - r-patchwork
+  - r-scales
+  - r-ggrepel
+  - r-rcpp
+  - r-sandwich
+  - bioconductor-biostrings
+  - bioconductor-genomicranges
+  - bioconductor-rtracklayer
+  - bioconductor-iranges
+  - mafft=7.526
+  - minimap2=2.26
+  - hmmer=3.4
+  - mash=2.2.2
+  - iqtree=3.0.1
+  - bedtools
+  - samtools
+  - trf
+  - repeatmasker
+

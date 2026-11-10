@@ -1,0 +1,3 @@
+species	forward_blocks	inverted_blocks	forward_matching_bp	inverted_matching_bp	total_matching_bp	forward_fraction	inverted_fraction	homolog
+Bonobo	17	35	310972	594882	905854	0.343291523799641	0.656708476200359	Pooled
+Chimpanzee	28	60	622058	1074470	1696528	0.3666653306046231	0.6333346693953769	Pooled

@@ -1,0 +1,19 @@
+tip	species	max_gap_bp	observed	null_mean	enrichment_fold	p_enrichment	p_depletion	estimable
+Human	Human (HG002)	0	0	9.7353	0	1	3.9999600004e-05	TRUE
+Human	Human (HG002)	10000	0	10.26097	0	1	1.9999800002e-05	TRUE
+Human	Human (HG002)	1e+05	0	10.37994	0	1	1.9999800002e-05	TRUE
+Gorilla	Gorilla	0	82	19.00102	4.31555779637093	9.99990000099999e-06	1	TRUE
+Gorilla	Gorilla	10000	82	19.11604	4.28959135887977	9.99990000099999e-06	1	TRUE
+Gorilla	Gorilla	1e+05	82	27.63446	2.96730965613223	9.99990000099999e-06	1	TRUE
+Chimpanzee	Chimpanzee	0	56	24.42919	2.29233961502612	9.99990000099999e-06	1	TRUE
+Chimpanzee	Chimpanzee	10000	56	25.37611	2.20680001781203	9.99990000099999e-06	1	TRUE
+Chimpanzee	Chimpanzee	1e+05	56	30.84155	1.81573234808238	9.99990000099999e-06	1	TRUE
+Bonobo	Bonobo	0	285	81.14533	3.51221690761502	9.99990000099999e-06	1	TRUE
+Bonobo	Bonobo	10000	285	81.75908	3.48585135742721	9.99990000099999e-06	1	TRUE
+Bonobo	Bonobo	1e+05	285	94.01678	3.031373761152	9.99990000099999e-06	1	TRUE
+Sumatran_orangutan	Sumatran orangutan	0	0	NA	NA	NA	NA	FALSE
+Sumatran_orangutan	Sumatran orangutan	10000	0	NA	NA	NA	NA	FALSE
+Sumatran_orangutan	Sumatran orangutan	1e+05	0	NA	NA	NA	NA	FALSE
+Bornean_orangutan	Bornean orangutan	0	0	NA	NA	NA	NA	FALSE
+Bornean_orangutan	Bornean orangutan	10000	0	NA	NA	NA	NA	FALSE
+Bornean_orangutan	Bornean orangutan	1e+05	0	NA	NA	NA	NA	FALSE

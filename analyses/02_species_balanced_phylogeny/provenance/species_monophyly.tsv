@@ -1,0 +1,8 @@
+group	n_tips	monophyletic
+human	50	TRUE
+gorilla	50	FALSE
+bonobo	50	TRUE
+chimpanzee	50	FALSE
+sumatran-orangutan	50	FALSE
+bornean-orangutan	50	FALSE
+siamang	50	TRUE

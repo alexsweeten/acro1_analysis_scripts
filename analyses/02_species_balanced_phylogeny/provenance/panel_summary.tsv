@@ -1,0 +1,10 @@
+species_key	n_sequences	complete_sequences	partial_sequences	minimum_length_bp	maximum_length_bp
+human	50	50	0	6848	8004
+gorilla	50	50	0	6542	7657
+bonobo	50	50	0	7092	7240
+chimpanzee	50	50	0	6669	7175
+sumatran-orangutan	50	50	0	6387	7435
+bornean-orangutan	50	50	0	6226	7125
+siamang-hap1	25	25	0	5972	6493
+siamang-hap2	25	25	0	5964	5992
+marmoset-partial	1	0	1	3676	3676

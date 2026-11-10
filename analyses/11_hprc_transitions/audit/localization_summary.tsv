@@ -1,0 +1,11 @@
+metric	value
+full_manifest_arrays	2794
+recombination_positive_arrays	1275
+retained_legacy_coordinates	30
+newly_inferred_coordinates	1245
+legacy_binary_rule_reproduced_among_positives	1275
+validation_median_absolute_error_bp	1422.991903
+validation_mean_absolute_error_bp	2842.585211
+validation_within_4kb	25
+validation_within_8kb	28
+validation_maximum_absolute_error_bp	27783.75

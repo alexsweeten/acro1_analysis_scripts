@@ -1,0 +1,17 @@
+methods_topic	directory	entry_point	status
+ACRE extraction and ACRO1 allele classification	analyses/01_acre_extraction_and_alleles	scripts/prepare_joint_input.py; scripts/label_six_primate_subfamilies.py	input configuration required
+Species-balanced ACRE phylogeny	analyses/02_species_balanced_phylogeny	run_all.sh	input configuration required
+Gorilla phylogeny and G1-G6 analysis	analyses/03_gorilla_phylogeny_and_clusters	phylogeny/prepare_gorilla.py; clustering/analyze_gorilla_clustering.py	input configuration required
+ACRO1 ORF analysis	analyses/04_orf_analysis	scripts/run_de_novo_orf_test.py	input configuration required
+POLR2A amino-acid composition similarity	analyses/05_polr2a_composition	run_analysis.py	directly runnable with bundled compact inputs
+Family-38 PRDM9-A motif retention	analyses/06_prdm9_motif	analyze_family38.py	parameterized; genome inputs required
+ACRO-HSat1A association	analyses/07_acro_hsat1a	run_six_species_analysis.R	parameterized; annotation inputs required
+Telomere/rDNA position and Pan synteny	analyses/08_telomere_rdna_pan_synteny	scripts/analyze_positions.R; scripts/build_all.sh	input configuration required
+HSA19 orthology	analyses/09_hsa19_orthology	run.sh	input configuration required
+NTRiage manuscript runs	analyses/10_ntriage_runs	run_all.sh	NTRiage and cohort inputs required
+HPRC transition localization	analyses/11_hprc_transitions	scripts/find_recombination.py; scripts/localize_positive_breakpoints.py	manual audit included
+ACRE-scale HOR score	analyses/12_hor_score	scripts/compute_hor_score.py	parameterized reconstructed generator
+Sequence divergence	analyses/13_divergence	great_apes/analyze_all_great_apes_and_human_split.py; hprc/compute_mash_intra_array_divergence.py	input configuration required
+Candidate-interval conservation	analyses/14_promoter_conservation	pipeline/run_array.py	PRO-seq provenance unresolved
+Assembly tables	analyses/15_assembly_tables	build_assembly_tables.py	compact tables included
+

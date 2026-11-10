@@ -1,0 +1,14 @@
+parameter	value
+analysis	de novo ACRO1 monomer ORF test
+ACRO_interval_definition	CenSat annotation label contains ACRO1
+monomer_discovery	TRF 2 7 7 80 10 30 200
+accepted_period_bp	135-159
+accepted_minimum_copy_number	1.5
+representative_monomer	highest-scoring accepted TRF call per CenSat interval
+ORF_scan	all six frames; ten tandem copies of de novo monomer consensus
+primary_ORF_metric	longest ATG-initiated segment before stop or sequence boundary
+secondary_ORF_metric	longest stop-free amino-acid segment
+null	exact dinucleotide-preserving shuffle of each monomer consensus, then ten-copy tandem reconstruction
+permutations	999
+seed	20261022
+empirical_p	(1 + null >= observed) / (1 + permutations)

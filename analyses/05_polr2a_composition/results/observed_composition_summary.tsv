@@ -1,0 +1,8 @@
+source_id	source_type	frame_scheme	sense_residues	stop_codons	S_count	P_count	T_count	Y_count	SPT_count	SPTY_count	SPT_fraction	SPTY_fraction
+ACRO1_species_balanced_pooled_frame0	ACRO1	candidate_frame0	145	0	35	32	12	6	79	85	0.54482758620689653	0.58620689655172409
+ACRO1_species_balanced_pooled_all_forward_frames	ACRO1	all_three_forward_frames	428	1	83	59	38	6	180	186	0.42056074766355139	0.43457943925233644
+ACRO1_canonical_frame0	ACRO1_allele	candidate_frame0	49	0	12	11	3	2	26	28	0.53061224489795922	0.5714285714285714
+ACRO1_internal_CCC_frame0	ACRO1_allele	candidate_frame0	48	0	12	11	4	2	27	29	0.5625	0.60416666666666663
+ACRO1_boundary_terminal_frame0	ACRO1_allele	candidate_frame0	48	0	11	10	5	2	26	28	0.54166666666666663	0.58333333333333337
+full_CTD_1593_1960	POLR2A_CTD	not_applicable	368	0	125	103	61	52	289	341	0.78532608695652173	0.92663043478260865
+selected_segment_1728_1776	POLR2A_CTD	not_applicable	49	0	17	14	8	7	39	46	0.79591836734693877	0.93877551020408168

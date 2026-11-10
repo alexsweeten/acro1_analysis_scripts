@@ -1,0 +1,10 @@
+metric	value
+round1_rows	1272
+removed_rows	76
+round2_rows	1196
+adjusted_rows_round2	17
+unchanged_rows_round2	1179
+round2_C1_to_C2	784
+round2_C6_to_C2	331
+round2_C2_to_C2	22
+round2_edge_unavailable	14

@@ -1,0 +1,15 @@
+assembly_key	species	clade	accession	haplotype	source	fasta	sequence_count	assembly_bp
+Human	Homo sapiens	great_ape	HG002v1.1	maternal	local_T2T	data/primate_genomes/hg002v1.1.fasta.gz	47	5999424718
+Chimpanzee	Pan troglodytes	great_ape	mPanTro3	best_supported_haplotype	local_T2T	data/primate_genomes/mPanTro3.dip.cur.20231122.fasta.gz	48	6176211936
+Bonobo	Pan paniscus	great_ape	mPanPan1	best_supported_haplotype	local_T2T	data/primate_genomes/mPanPan1.dip.cur.20231122.fasta.gz	70	6286885621
+Gorilla	Gorilla gorilla	great_ape	mGorGor1	best_supported_haplotype	local_T2T	data/primate_genomes/mGorGor1.dip.cur.20231122.fasta.gz	249	6906566215
+Sumatran_orangutan	Pongo abelii	great_ape	mPonAbe1	best_supported_haplotype	local_T2T	data/primate_genomes/mPonAbe1.dip.cur.20231205.fasta.gz	77	6260850238
+Bornean_orangutan	Pongo pygmaeus	great_ape	mPonPyg2	best_supported_haplotype	local_T2T	data/primate_genomes/mPonPyg2.dip.cur.20231122.fasta.gz	58	6228071324
+Siamang_hap1	Symphalangus syndactylus	gibbon	GCA_028878055.3	primary	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/core_outgroups/ncbi_dataset/data/GCA_028878055.3/GCA_028878055.3_NHGRI_mSymSyn1-v2.1_pri_genomic.fna	27	3262904223
+Siamang_hap2	Symphalangus syndactylus	gibbon	GCA_028878085.3	alternate	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/core_outgroups/ncbi_dataset/data/GCA_028878085.3/GCA_028878085.3_NHGRI_mSymSyn1-v2.0_alt_genomic.fna	40	3097367794
+Hoolock_gibbon	Hoolock leuconedys	gibbon	GCA_047372625.1	haploid	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/expanded_individual/GCA_047372625.1_UCONN_HLeu1_genomic.fna	19	2760609521
+Nomascus_gibbon	Nomascus leucogenys	gibbon	GCA_040113105.1	haplotype_2	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/expanded_individual/GCA_040113105.1_ASM4011310v1_genomic.fna	90	2959653166
+Rhesus_macaque	Macaca mulatta	old_world_monkey	GCF_003339765.1	haploid	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/expanded_individual/GCF_003339765.1_Mmul_10_genomic.fna	2939	2971331530
+Marmoset	Callithrix jacchus	new_world_monkey	GCA_049354715.1	primary	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/core_outgroups/ncbi_dataset/data/GCA_049354715.1/GCA_049354715.1_calJac240_pri_genomic.fna	24	2933409465
+Golden_lion_tamarin	Leontopithecus rosalia	new_world_monkey	GCA_054824895.1	haplotype_1	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/expanded_individual/GCA_054824895.1_mLeoRos1.hap1_genomic.fna	430	3095561964
+Squirrel_monkey	Saimiri boliviensis	new_world_monkey	GCA_048565385.1	primary	NCBI	data/phylogeny_origin_acro1_full/inputs/ncbi_downloads/expanded_individual/GCA_048565385.1_mSaiBol1.pri_genomic.fna	63	2747476440

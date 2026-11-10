@@ -1,0 +1,11 @@
+software	version
+Python	3.10.12
+NumPy	1.26.4
+pandas	2.0.3
+scikit-learn	1.5.2
+matplotlib	3.7.2
+MAFFT	7.526
+IQ-TREE	3.0.1
+R	4.4.1
+ape	5.8.1
+ragg	1.5.0

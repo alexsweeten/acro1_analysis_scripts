@@ -1,0 +1,10 @@
+key	path_or_accession	description
+great_ape_genome_directory	/path/to/great_ape_genomes	Assembly FASTAs listed in the assembly manifest
+great_ape_censat_directory	/path/to/censat_annotations	Assembly-matched CenSat BED files
+hprc_array_fasta	/path/to/hprc_telomeric_arrays.fasta	Core HPRC array sequences, without extraction flanks
+hprc_array_metadata	/path/to/hprc_array_metadata.tsv	Array, haplotype, individual, and population metadata
+ntriage_binary	/path/to/ntriage	NTRiage v0.3.0 executable
+component_reference_fasta	/path/to/acro_component_references.fasta	ACRE constituent-repeat references
+proseq_negative_bigwig	UNRESOLVED	CHM13 negative-strand PRO-seq track; source provenance must be resolved
+proseq_positive_bigwig	UNRESOLVED	CHM13 positive-strand PRO-seq track; source provenance must be resolved
+

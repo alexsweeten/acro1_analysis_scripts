@@ -1,0 +1,352 @@
+tip_label	species_key	species_display	assembly	chromosome	start	end	length_bp	selection_source	completeness	identity_to_pan010_ranking_reference	within_species_rank
+human__chr14-PATERNAL__266949__rank01	human	Human	HG002v1.1	chr14_PATERNAL	266949	274247	7298	top50_family38_motif_to_motif	complete	0.9952048225784355	1
+human__chr14-PATERNAL__274247__rank02	human	Human	HG002v1.1	chr14_PATERNAL	274247	281543	7296	top50_family38_motif_to_motif	complete	0.9947938073708728	2
+human__chr14-PATERNAL__252366__rank03	human	Human	HG002v1.1	chr14_PATERNAL	252366	259661	7295	top50_family38_motif_to_motif	complete	0.9945197972324976	3
+human__chr13-PATERNAL__125809__rank04	human	Human	HG002v1.1	chr13_PATERNAL	125809	133088	7279	top50_family38_motif_to_motif	complete	0.9942457870941225	4
+human__chr14-PATERNAL__215926__rank05	human	Human	HG002v1.1	chr14_PATERNAL	215926	223218	7292	top50_family38_motif_to_motif	complete	0.9942457870941225	5
+human__chr22-MATERNAL__104142__rank06	human	Human	HG002v1.1	chr22_MATERNAL	104142	111428	7286	top50_family38_motif_to_motif	complete	0.9942457870941225	6
+human__chr22-PATERNAL__118549__rank07	human	Human	HG002v1.1	chr22_PATERNAL	118549	125828	7279	top50_family38_motif_to_motif	complete	0.9942457870941225	7
+human__chr14-PATERNAL__230502__rank08	human	Human	HG002v1.1	chr14_PATERNAL	230502	237790	7288	top50_family38_motif_to_motif	complete	0.9941087820249349	8
+human__chr14-PATERNAL__237790__rank09	human	Human	HG002v1.1	chr14_PATERNAL	237790	245078	7288	top50_family38_motif_to_motif	complete	0.9939717769557473	9
+human__chr14-PATERNAL__245078__rank10	human	Human	HG002v1.1	chr14_PATERNAL	245078	252366	7288	top50_family38_motif_to_motif	complete	0.9936977668173722	10
+human__chr14-PATERNAL__223218__rank11	human	Human	HG002v1.1	chr14_PATERNAL	223218	230502	7284	top50_family38_motif_to_motif	complete	0.9934237566789971	11
+human__chr14-PATERNAL__259661__rank12	human	Human	HG002v1.1	chr14_PATERNAL	259661	266949	7288	top50_family38_motif_to_motif	complete	0.993149746540622	12
+human__chr15-MATERNAL__113836__rank13	human	Human	HG002v1.1	chr15_MATERNAL	113836	121131	7295	top50_family38_motif_to_motif	complete	0.993149746540622	13
+human__chr14-PATERNAL__208636__rank14	human	Human	HG002v1.1	chr14_PATERNAL	208636	215926	7290	top50_family38_motif_to_motif	complete	0.9930127414714345	14
+human__chr22-MATERNAL__111428__rank15	human	Human	HG002v1.1	chr22_MATERNAL	111428	118719	7291	top50_family38_motif_to_motif	complete	0.9923277161254966	15
+human__chr14-PATERNAL__86296__rank16	human	Human	HG002v1.1	chr14_PATERNAL	86296	93572	7276	top50_family38_motif_to_motif	complete	0.9919167009179339	16
+human__chr14-PATERNAL__93572__rank17	human	Human	HG002v1.1	chr14_PATERNAL	93572	100848	7276	top50_family38_motif_to_motif	complete	0.9919167009179339	17
+human__chr14-PATERNAL__194084__rank18	human	Human	HG002v1.1	chr14_PATERNAL	194084	201360	7276	top50_family38_motif_to_motif	complete	0.9919167009179339	18
+human__chr14-PATERNAL__201360__rank19	human	Human	HG002v1.1	chr14_PATERNAL	201360	208636	7276	top50_family38_motif_to_motif	complete	0.9919167009179339	19
+human__chr13-PATERNAL__177228__rank20	human	Human	HG002v1.1	chr13_PATERNAL	177228	184504	7276	top50_family38_motif_to_motif	complete	0.9910946705028086	20
+human__chr22-PATERNAL__169968__rank21	human	Human	HG002v1.1	chr22_PATERNAL	169968	177244	7276	top50_family38_motif_to_motif	complete	0.9910946705028086	21
+human__chr15-MATERNAL__106690__rank22	human	Human	HG002v1.1	chr15_MATERNAL	106690	113836	7146	top50_family38_motif_to_motif	complete	0.9745170571311138	22
+human__chr14-PATERNAL__295983__rank23	human	Human	HG002v1.1	chr14_PATERNAL	295983	303267	7284	top50_family38_motif_to_motif	complete	0.9741060419235512	23
+human__chr15-MATERNAL__128273__rank24	human	Human	HG002v1.1	chr15_MATERNAL	128273	135417	7144	top50_family38_motif_to_motif	complete	0.9732840115084258	24
+human__chr13-PATERNAL__148668__rank25	human	Human	HG002v1.1	chr13_PATERNAL	148668	155808	7140	top50_family38_motif_to_motif	complete	0.9728729963008631	25
+human__chr22-PATERNAL__141408__rank26	human	Human	HG002v1.1	chr22_PATERNAL	141408	148548	7140	top50_family38_motif_to_motif	complete	0.9728729963008631	26
+human__chr15-MATERNAL__121131__rank27	human	Human	HG002v1.1	chr15_MATERNAL	121131	128273	7142	top50_family38_motif_to_motif	complete	0.9721879709549254	27
+human__chr22-MATERNAL__118719__rank28	human	Human	HG002v1.1	chr22_MATERNAL	118719	125865	7146	top50_family38_motif_to_motif	complete	0.9721879709549254	28
+human__chr13-PATERNAL__141534__rank29	human	Human	HG002v1.1	chr13_PATERNAL	141534	148668	7134	top50_family38_motif_to_motif	complete	0.9706809151938621	29
+human__chr22-PATERNAL__134274__rank30	human	Human	HG002v1.1	chr22_PATERNAL	134274	141408	7134	top50_family38_motif_to_motif	complete	0.9706809151938621	30
+human__chr22-MATERNAL__125865__rank31	human	Human	HG002v1.1	chr22_MATERNAL	125865	133301	7436	top50_family38_motif_to_motif	complete	0.9655728886498117	31
+human__chr13-PATERNAL__155808__rank32	human	Human	HG002v1.1	chr13_PATERNAL	155808	163244	7436	top50_family38_motif_to_motif	complete	0.9651694459386767	32
+human__chr22-PATERNAL__148548__rank33	human	Human	HG002v1.1	chr22_PATERNAL	148548	155984	7436	top50_family38_motif_to_motif	complete	0.9651694459386767	33
+human__chr15-MATERNAL__142395__rank34	human	Human	HG002v1.1	chr15_MATERNAL	142395	149807	7412	top50_family38_motif_to_motif	complete	0.9639773340528872	34
+human__chr22-MATERNAL__140279__rank35	human	Human	HG002v1.1	chr22_MATERNAL	140279	147691	7412	top50_family38_motif_to_motif	complete	0.9638424177010254	35
+human__chr13-PATERNAL__184504__rank36	human	Human	HG002v1.1	chr13_PATERNAL	184504	191912	7408	top50_family38_motif_to_motif	complete	0.963012958963283	36
+human__chr22-PATERNAL__177244__rank37	human	Human	HG002v1.1	chr22_PATERNAL	177244	184652	7408	top50_family38_motif_to_motif	complete	0.963012958963283	37
+human__chr14-PATERNAL__288547__rank38	human	Human	HG002v1.1	chr14_PATERNAL	288547	295983	7436	top50_family38_motif_to_motif	complete	0.9618074233458849	38
+human__chr14-PATERNAL__281543__rank39	human	Human	HG002v1.1	chr14_PATERNAL	281543	288547	7004	top50_family38_motif_to_motif	complete	0.9539662967529798	39
+human__chr13-PATERNAL__170222__rank40	human	Human	HG002v1.1	chr13_PATERNAL	170222	177228	7006	top50_family38_motif_to_motif	complete	0.9532812714070421	40
+human__chr22-PATERNAL__162962__rank41	human	Human	HG002v1.1	chr22_PATERNAL	162962	169968	7006	top50_family38_motif_to_motif	complete	0.9532812714070421	41
+human__chr13-PATERNAL__163244__rank42	human	Human	HG002v1.1	chr13_PATERNAL	163244	170222	6978	top50_family38_motif_to_motif	complete	0.9491711193314153	42
+human__chr15-MATERNAL__135417__rank43	human	Human	HG002v1.1	chr15_MATERNAL	135417	142395	6978	top50_family38_motif_to_motif	complete	0.9491711193314153	43
+human__chr22-MATERNAL__133301__rank44	human	Human	HG002v1.1	chr22_MATERNAL	133301	140279	6978	top50_family38_motif_to_motif	complete	0.9491711193314153	44
+human__chr22-PATERNAL__155984__rank45	human	Human	HG002v1.1	chr22_PATERNAL	155984	162962	6978	top50_family38_motif_to_motif	complete	0.9491711193314153	45
+human__chr14-PATERNAL__323837__rank46	human	Human	HG002v1.1	chr14_PATERNAL	323837	331554	7717	top50_family38_motif_to_motif	complete	0.9310612932486717	46
+human__chr14-PATERNAL__316985__rank47	human	Human	HG002v1.1	chr14_PATERNAL	316985	323837	6852	top50_family38_motif_to_motif	complete	0.9230031511165913	47
+human__chr14-PATERNAL__310137__rank48	human	Human	HG002v1.1	chr14_PATERNAL	310137	316985	6848	top50_family38_motif_to_motif	complete	0.9228661460474038	48
+human__chr14-PATERNAL__303267__rank49	human	Human	HG002v1.1	chr14_PATERNAL	303267	310137	6870	top50_family38_motif_to_motif	complete	0.9219071105630908	49
+human__chr15-MATERNAL__98686__rank50	human	Human	HG002v1.1	chr15_MATERNAL	98686	106690	8004	top50_family38_motif_to_motif	complete	0.9015492253873063	50
+gorilla__chr23-mat-hsa22__775194__rank01	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr23_mat_hsa22	775194	782244	7050	top50_family38_motif_to_motif	complete	0.8916289902726401	1
+gorilla__chr23-mat-hsa22__807551__rank02	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr23_mat_hsa22	807551	814601	7050	top50_family38_motif_to_motif	complete	0.8909439649267022	2
+gorilla__chr23-mat-hsa22__84561__rank03	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr23_mat_hsa22	84561	91625	7064	top50_family38_motif_to_motif	complete	0.8894369091656391	3
+gorilla__chr23-mat-hsa22__468319__rank04	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr23_mat_hsa22	468319	475383	7064	top50_family38_motif_to_motif	complete	0.8894369091656391	4
+gorilla__chr22-mat-hsa21__6045711__rank05	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_mat_hsa21	6045711	6053368	7657	top50_family38_motif_to_motif	complete	0.8857254799529842	5
+gorilla__chr22-pat-hsa21__8170178__rank06	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8170178	8177222	7044	top50_family38_motif_to_motif	complete	0.8850527469516372	6
+gorilla__chr22-pat-hsa21__8177222__rank07	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8177222	8184266	7044	top50_family38_motif_to_motif	complete	0.8847787368132621	7
+gorilla__chr22-pat-hsa21__8184266__rank08	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8184266	8191314	7048	top50_family38_motif_to_motif	complete	0.8846417317440746	8
+gorilla__chr16-mat-hsa15__702372__rank09	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr16_mat_hsa15	702372	709049	6677	top50_family38_motif_to_motif	complete	0.8743663515550075	9
+gorilla__chr22-mat-hsa21__538327__rank10	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_mat_hsa21	538327	545252	6925	top50_family38_motif_to_motif	complete	0.872037265378819	10
+gorilla__chr22-pat-hsa21__8607739__rank11	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8607739	8614614	6875	top50_family38_motif_to_motif	complete	0.8713522400328813	11
+gorilla__chr22-pat-hsa21__584195__rank12	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	584195	591112	6917	top50_family38_motif_to_motif	complete	0.8699821893410056	12
+gorilla__chr16-mat-hsa15__719561__rank13	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr16_mat_hsa15	719561	726448	6887	top50_family38_motif_to_motif	complete	0.8695711741334429	13
+gorilla__chr22-pat-hsa21__8573734__rank14	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8573734	8580590	6856	top50_family38_motif_to_motif	complete	0.8692971639950678	14
+gorilla__chr22-pat-hsa21__8163274__rank15	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8163274	8170178	6904	top50_family38_motif_to_motif	complete	0.8690231538566927	15
+gorilla__chr22-pat-hsa21__8156350__rank16	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8156350	8163274	6924	top50_family38_motif_to_motif	complete	0.8684751335799424	16
+gorilla__chr16-mat-hsa15__689233__rank17	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr16_mat_hsa15	689233	695830	6597	top50_family38_motif_to_motif	complete	0.8650500068502535	17
+gorilla__chr22-pat-hsa21__8580590__rank18	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr22_pat_hsa21	8580590	8587544	6954	top50_family38_motif_to_motif	complete	0.8627209206740649	18
+gorilla__chr12-mat-hsa2a__7826925__rank19	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7826925	7833510	6585	top50_family38_motif_to_motif	complete	0.8625839156048773	19
+gorilla__chr12-mat-hsa2a__7983547__rank20	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7983547	7990128	6581	top50_family38_motif_to_motif	complete	0.8621729003973146	20
+gorilla__chr12-mat-hsa2a__7912257__rank21	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7912257	7918834	6577	top50_family38_motif_to_motif	complete	0.8618988902589396	21
+gorilla__chr12-mat-hsa2a__8389838__rank22	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	8389838	8396417	6579	top50_family38_motif_to_motif	complete	0.8618988902589396	22
+gorilla__chr12-mat-hsa2a__7879394__rank23	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7879394	7885971	6577	top50_family38_motif_to_motif	complete	0.861761885189752	23
+gorilla__chr12-mat-hsa2a__8363801__rank24	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	8363801	8370380	6579	top50_family38_motif_to_motif	complete	0.8616248801205645	24
+gorilla__chr12-mat-hsa2a__7767968__rank25	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7767968	7774559	6591	top50_family38_motif_to_motif	complete	0.8614878750513769	25
+gorilla__chr12-mat-hsa2a__7774559__rank26	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7774559	7781150	6591	top50_family38_motif_to_motif	complete	0.8614878750513769	26
+gorilla__chr12-mat-hsa2a__7925392__rank27	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7925392	7931965	6573	top50_family38_motif_to_motif	complete	0.8614878750513769	27
+gorilla__chr12-mat-hsa2a__8396417__rank28	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	8396417	8402998	6581	top50_family38_motif_to_motif	complete	0.8614878750513769	28
+gorilla__chr12-mat-hsa2a__7787725__rank29	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7787725	7794312	6587	top50_family38_motif_to_motif	complete	0.8612138649130018	29
+gorilla__chr12-mat-hsa2a__7859797__rank30	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7859797	7866370	6573	top50_family38_motif_to_motif	complete	0.8612138649130018	30
+gorilla__chr12-mat-hsa2a__7899118__rank31	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7899118	7905689	6571	top50_family38_motif_to_motif	complete	0.8612138649130018	31
+gorilla__chr12-mat-hsa2a__8357226__rank32	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	8357226	8363801	6575	top50_family38_motif_to_motif	complete	0.8612138649130018	32
+gorilla__chr12-mat-hsa2a__8370380__rank33	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	8370380	8376955	6575	top50_family38_motif_to_motif	complete	0.8612138649130018	33
+gorilla__chr12-mat-hsa2a__7794312__rank34	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7794312	7800895	6583	top50_family38_motif_to_motif	complete	0.8610768598438142	34
+gorilla__chr12-mat-hsa2a__7866370__rank35	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7866370	7872947	6577	top50_family38_motif_to_motif	complete	0.8610768598438142	35
+gorilla__chr12-mat-hsa2a__8344056__rank36	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	8344056	8350639	6583	top50_family38_motif_to_motif	complete	0.8610768598438142	36
+gorilla__chr12-mat-hsa2a__7944819__rank37	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7944819	7951386	6567	top50_family38_motif_to_motif	complete	0.8609398547746266	37
+gorilla__chr12-mat-hsa2a__7807470__rank38	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7807470	7814041	6571	top50_family38_motif_to_motif	complete	0.8608028497054391	38
+gorilla__chr12-mat-hsa2a__7892527__rank39	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7892527	7899118	6591	top50_family38_motif_to_motif	complete	0.8608028497054391	39
+gorilla__chr12-mat-hsa2a__7781150__rank40	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7781150	7787725	6575	top50_family38_motif_to_motif	complete	0.8603918344978765	40
+gorilla__chr12-mat-hsa2a__7853208__rank41	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7853208	7859797	6589	top50_family38_motif_to_motif	complete	0.8601178243595013	41
+gorilla__chr12-mat-hsa2a__7800895__rank42	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7800895	7807470	6575	top50_family38_motif_to_motif	complete	0.8599808192903138	42
+gorilla__chr12-mat-hsa2a__7918834__rank43	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7918834	7925392	6558	top50_family38_motif_to_motif	complete	0.8599808192903138	43
+gorilla__chr12-mat-hsa2a__8350639__rank44	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	8350639	8357226	6587	top50_family38_motif_to_motif	complete	0.8599808192903138	44
+gorilla__chr16-mat-hsa15__709049__rank45	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr16_mat_hsa15	709049	715593	6544	top50_family38_motif_to_motif	complete	0.8599808192903138	45
+gorilla__chr12-mat-hsa2a__7840072__rank46	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7840072	7846653	6581	top50_family38_motif_to_motif	complete	0.8597068091519386	46
+gorilla__chr16-mat-hsa15__695830__rank47	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr16_mat_hsa15	695830	702372	6542	top50_family38_motif_to_motif	complete	0.8597068091519386	47
+gorilla__chr12-mat-hsa2a__7905689__rank48	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7905689	7912257	6568	top50_family38_motif_to_motif	complete	0.8592957939443759	48
+gorilla__chr12-mat-hsa2a__7951386__rank49	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7951386	7957944	6558	top50_family38_motif_to_motif	complete	0.8592957939443759	49
+gorilla__chr12-mat-hsa2a__7833510__rank50	gorilla	Gorilla	mGorGor1.dip.cur.20231122	chr12_mat_hsa2a	7833510	7840072	6562	top50_family38_motif_to_motif	complete	0.8591587888751884	50
+bonobo__chr23-pat-hsa22__33205__rank01	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr23_pat_hsa22	33205	40445	7240	top50_family38_motif_to_motif	complete	0.9394437594190985	1
+bonobo__chr23-pat-hsa22__101526__rank02	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr23_pat_hsa22	101526	108764	7238	top50_family38_motif_to_motif	complete	0.9390327442115358	2
+bonobo__chr23-pat-hsa22__59988__rank03	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr23_pat_hsa22	59988	67220	7232	top50_family38_motif_to_motif	complete	0.9387587340731607	3
+bonobo__chr23-pat-hsa22__87207__rank04	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr23_pat_hsa22	87207	94440	7233	top50_family38_motif_to_motif	complete	0.938073708727223	4
+bonobo__chr15-pat-hsa14__42914__rank05	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	42914	50018	7104	top50_family38_motif_to_motif	complete	0.9261542677079052	5
+bonobo__chr1522-pat-hsa1421-random-utig4-147__32877__rank06	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-147	32877	39981	7104	top50_family38_motif_to_motif	complete	0.9261542677079052	6
+bonobo__chr1522-pat-hsa1421-random-utig4-327__18109__rank07	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-327	18109	25213	7104	top50_family38_motif_to_motif	complete	0.9261542677079052	7
+bonobo__chr15-pat-hsa14__71016__rank08	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	71016	78120	7104	top50_family38_motif_to_motif	complete	0.9260172626387176	8
+bonobo__chr15-pat-hsa14__105772__rank09	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	105772	112876	7104	top50_family38_motif_to_motif	complete	0.9260172626387176	9
+bonobo__chr1522-pat-hsa1421-random-utig4-1011__3469__rank10	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-1011	3469	10571	7102	top50_family38_motif_to_motif	complete	0.9260172626387176	10
+bonobo__chr1522-pat-hsa1421-random-utig4-997__18346__rank11	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-997	18346	25446	7100	top50_family38_motif_to_motif	complete	0.9260172626387176	11
+bonobo__chr22-pat-hsa21__69824__rank12	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr22_pat_hsa21	69824	76928	7104	top50_family38_motif_to_motif	complete	0.9260172626387176	12
+bonobo__chr22-pat-hsa21__104580__rank13	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr22_pat_hsa21	104580	111684	7104	top50_family38_motif_to_motif	complete	0.9260172626387176	13
+bonobo__chr1522-pat-hsa1421-random-utig4-145__73831__rank14	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	73831	80933	7102	top50_family38_motif_to_motif	complete	0.9258802575695301	14
+bonobo__chr1522-pat-hsa1421-random-utig4-147__4483__rank15	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-147	4483	11585	7102	top50_family38_motif_to_motif	complete	0.9258802575695301	15
+bonobo__chr22-pat-hsa21__41724__rank16	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr22_pat_hsa21	41724	48826	7102	top50_family38_motif_to_motif	complete	0.9258802575695301	16
+bonobo__chr22-pat-hsa21__190471__rank17	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr22_pat_hsa21	190471	197571	7100	top50_family38_motif_to_motif	complete	0.9258802575695301	17
+bonobo__chr15-pat-hsa14__191656__rank18	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	191656	198756	7100	top50_family38_motif_to_motif	complete	0.9257432525003425	18
+bonobo__chr15-pat-hsa14__198756__rank19	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	198756	205858	7102	top50_family38_motif_to_motif	complete	0.9257432525003425	19
+bonobo__chr22-pat-hsa21__197571__rank20	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr22_pat_hsa21	197571	204673	7102	top50_family38_motif_to_motif	complete	0.9257432525003425	20
+bonobo__chr1522-pat-hsa1421-random-utig4-145__10511__rank21	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	10511	17609	7098	top50_family38_motif_to_motif	complete	0.9256062474311549	21
+bonobo__chr1522-pat-hsa1421-random-utig4-145__17609__rank22	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	17609	24713	7104	top50_family38_motif_to_motif	complete	0.9256062474311549	22
+bonobo__chr1522-pat-hsa1421-random-utig4-145__45429__rank23	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	45429	52531	7102	top50_family38_motif_to_motif	complete	0.9256062474311549	23
+bonobo__chr1522-pat-hsa1421-random-utig4-145__52531__rank24	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	52531	59633	7102	top50_family38_motif_to_motif	complete	0.9256062474311549	24
+bonobo__chr1522-pat-hsa1421-random-utig4-325__138687__rank25	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	138687	145787	7100	top50_family38_motif_to_motif	complete	0.9256062474311549	25
+bonobo__chr1522-pat-hsa1421-random-utig4-327__3917__rank26	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-327	3917	11017	7100	top50_family38_motif_to_motif	complete	0.9256062474311549	26
+bonobo__chr1522-pat-hsa1421-random-utig4-997__25446__rank27	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-997	25446	32548	7102	top50_family38_motif_to_motif	complete	0.9256062474311549	27
+bonobo__chr15-pat-hsa14__184558__rank28	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	184558	191656	7098	top50_family38_motif_to_motif	complete	0.9254692423619674	28
+bonobo__chr1522-pat-hsa1421-random-utig4-147__25775__rank29	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-147	25775	32877	7102	top50_family38_motif_to_motif	complete	0.9254692423619674	29
+bonobo__chr1522-pat-hsa1421-random-utig4-325__13149__rank30	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	13149	20245	7096	top50_family38_motif_to_motif	complete	0.9254692423619674	30
+bonobo__chr1522-pat-hsa1421-random-utig4-325__47897__rank31	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	47897	54993	7096	top50_family38_motif_to_motif	complete	0.9254692423619674	31
+bonobo__chr1522-pat-hsa1421-random-utig4-325__82645__rank32	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	82645	89741	7096	top50_family38_motif_to_motif	complete	0.9254692423619674	32
+bonobo__chr1522-pat-hsa1421-random-utig4-325__117393__rank33	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	117393	124489	7096	top50_family38_motif_to_motif	complete	0.9254692423619674	33
+bonobo__chr15-pat-hsa14__219628__rank34	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	219628	226726	7098	top50_family38_motif_to_motif	complete	0.9253322372927798	34
+bonobo__chr1522-pat-hsa1421-random-utig4-325__131585__rank35	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	131585	138687	7102	top50_family38_motif_to_motif	complete	0.9253322372927798	35
+bonobo__chr1522-pat-hsa1421-random-utig4-145__59633__rank36	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	59633	66735	7102	top50_family38_motif_to_motif	complete	0.9251952322235922	36
+bonobo__chr1522-pat-hsa1421-random-utig4-325__124489__rank37	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	124489	131585	7096	top50_family38_motif_to_motif	complete	0.9251952322235922	37
+bonobo__chr17-mat-hsa18__168749__rank38	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr17_mat_hsa18	168749	175847	7098	top50_family38_motif_to_motif	complete	0.9251952322235922	38
+bonobo__chr15-mat-hsa14__59252__rank39	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_mat_hsa14	59252	66348	7096	top50_family38_motif_to_motif	complete	0.9250582271544047	39
+bonobo__chr15-mat-hsa14__247855__rank40	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_mat_hsa14	247855	254956	7101	top50_family38_motif_to_motif	complete	0.9250582271544047	40
+bonobo__chr15-pat-hsa14__205858__rank41	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	205858	212958	7100	top50_family38_motif_to_motif	complete	0.9250582271544047	41
+bonobo__chr1522-pat-hsa1421-random-utig4-145__31231__rank42	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	31231	38331	7100	top50_family38_motif_to_motif	complete	0.9250582271544047	42
+bonobo__chr1522-pat-hsa1421-random-utig4-325__145787__rank43	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-325	145787	152879	7092	top50_family38_motif_to_motif	complete	0.9250582271544047	43
+bonobo__chr1522-pat-hsa1421-random-utig4-327__25213__rank44	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-327	25213	32309	7096	top50_family38_motif_to_motif	complete	0.9250582271544047	44
+bonobo__chr17-mat-hsa18__99280__rank45	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr17_mat_hsa18	99280	106372	7092	top50_family38_motif_to_motif	complete	0.9250582271544047	45
+bonobo__chr15-mat-hsa14__199252__rank46	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_mat_hsa14	199252	206348	7096	top50_family38_motif_to_motif	complete	0.9249212220852172	46
+bonobo__chr15-pat-hsa14__78120__rank47	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	78120	85212	7092	top50_family38_motif_to_motif	complete	0.9249212220852172	47
+bonobo__chr15-pat-hsa14__112876__rank48	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr15_pat_hsa14	112876	119968	7092	top50_family38_motif_to_motif	complete	0.9249212220852172	48
+bonobo__chr1522-pat-hsa1421-random-utig4-145__38331__rank49	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-145	38331	45429	7098	top50_family38_motif_to_motif	complete	0.9249212220852172	49
+bonobo__chr1522-pat-hsa1421-random-utig4-327__11017__rank50	bonobo	Bonobo	mPanPan1.dip.cur.20231122	chr1522_pat_hsa1421_random_utig4-327	11017	18109	7092	top50_family38_motif_to_motif	complete	0.9249212220852172	50
+chimpanzee__chr22-hap1-hsa21__3519867__rank01	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	3519867	3527042	7175	top50_family38_motif_to_motif	complete	0.8999862994930813	1
+chimpanzee__chr22-hap1-hsa21__319996__rank02	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	319996	326826	6830	top50_family38_motif_to_motif	complete	0.8935470612412659	2
+chimpanzee__chr23-hap2-hsa22__8717__rank03	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap2_hsa22	8717	15553	6836	top50_family38_motif_to_motif	complete	0.8916289902726401	3
+chimpanzee__chr23-hap2-hsa22__22393__rank04	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap2_hsa22	22393	29231	6838	top50_family38_motif_to_motif	complete	0.8916289902726401	4
+chimpanzee__chr23-hap2-hsa22__15553__rank05	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap2_hsa22	15553	22393	6840	top50_family38_motif_to_motif	complete	0.891354980134265	5
+chimpanzee__chr22-hap1-hsa21__221218__rank06	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	221218	227911	6693	top50_family38_motif_to_motif	complete	0.8782024934922592	6
+chimpanzee__chr22-hap1-hsa21__57713__rank07	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	57713	64406	6693	top50_family38_motif_to_motif	complete	0.8777914782846965	7
+chimpanzee__chr22-hap1-hsa21__174987__rank08	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	174987	181679	6692	top50_family38_motif_to_motif	complete	0.8777914782846965	8
+chimpanzee__chr22-hap1-hsa21__194908__rank09	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	194908	201599	6691	top50_family38_motif_to_motif	complete	0.8777914782846965	9
+chimpanzee__chr23-hap1-hsa22__134932__rank10	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	134932	141629	6697	top50_family38_motif_to_motif	complete	0.8777914782846965	10
+chimpanzee__chr22-hap1-hsa21__286983__rank11	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	286983	293674	6691	top50_family38_motif_to_motif	complete	0.8775174681463214	11
+chimpanzee__chr23-hap1-hsa22__81716__rank12	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	81716	88413	6697	top50_family38_motif_to_motif	complete	0.8775174681463214	12
+chimpanzee__chr22-hap1-hsa21__135704__rank13	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	135704	142394	6690	top50_family38_motif_to_motif	complete	0.8773804630771338	13
+chimpanzee__chr22-hap1-hsa21__51028__rank14	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	51028	57713	6685	top50_family38_motif_to_motif	complete	0.8769694478695712	14
+chimpanzee__chr22-hap1-hsa21__267199__rank15	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	267199	273885	6686	top50_family38_motif_to_motif	complete	0.8769694478695712	15
+chimpanzee__chr23-hap1-hsa22__128243__rank16	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	128243	134932	6689	top50_family38_motif_to_motif	complete	0.8769694478695712	16
+chimpanzee__chr22-hap1-hsa21__293674__rank17	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	293674	300365	6691	top50_family38_motif_to_motif	complete	0.8766954377311961	17
+chimpanzee__chr23-hap1-hsa22__148310__rank18	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	148310	154999	6689	top50_family38_motif_to_motif	complete	0.8766954377311961	18
+chimpanzee__chr22-hap1-hsa21__188225__rank19	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	188225	194908	6683	top50_family38_motif_to_motif	complete	0.8764214275928209	19
+chimpanzee__chr23-hap1-hsa22__88413__rank20	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	88413	95102	6689	top50_family38_motif_to_motif	complete	0.8764214275928209	20
+chimpanzee__chr23-hap1-hsa22__108192__rank21	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	108192	114873	6681	top50_family38_motif_to_motif	complete	0.8764214275928209	21
+chimpanzee__chr23-hap1-hsa22__121554__rank22	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	121554	128243	6689	top50_family38_motif_to_motif	complete	0.8764214275928209	22
+chimpanzee__chr23-hap1-hsa22__114873__rank23	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	114873	121554	6681	top50_family38_motif_to_motif	complete	0.8761474174544458	23
+chimpanzee__chr22-hap1-hsa21__339635__rank24	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	339635	346320	6685	top50_family38_motif_to_motif	complete	0.8758734073160707	24
+chimpanzee__chr23-hap1-hsa22__14954__rank25	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	14954	21633	6679	top50_family38_motif_to_motif	complete	0.8758734073160707	25
+chimpanzee__chr23-hap1-hsa22__41658__rank26	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	41658	48337	6679	top50_family38_motif_to_motif	complete	0.8758734073160707	26
+chimpanzee__chr23-hap1-hsa22__55012__rank27	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	55012	61689	6677	top50_family38_motif_to_motif	complete	0.8757364022468831	27
+chimpanzee__chr23-hap1-hsa22__61689__rank28	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	61689	68368	6679	top50_family38_motif_to_motif	complete	0.8757364022468831	28
+chimpanzee__chr23-hap1-hsa22__75037__rank29	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	75037	81716	6679	top50_family38_motif_to_motif	complete	0.8757364022468831	29
+chimpanzee__chr23-hap1-hsa22__8273__rank30	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	8273	14954	6681	top50_family38_motif_to_motif	complete	0.8755993971776955	30
+chimpanzee__chr23-hap1-hsa22__141629__rank31	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	141629	148310	6681	top50_family38_motif_to_motif	complete	0.8755993971776955	31
+chimpanzee__chr23-hap1-hsa22__154999__rank32	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	154999	161676	6677	top50_family38_motif_to_motif	complete	0.8754623921085081	32
+chimpanzee__chr23-hap1-hsa22__21633__rank33	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	21633	28308	6675	top50_family38_motif_to_motif	complete	0.8753253870393205	33
+chimpanzee__chr23-hap1-hsa22__28308__rank34	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	28308	34983	6675	top50_family38_motif_to_motif	complete	0.8753253870393205	34
+chimpanzee__chr23-hap1-hsa22__34983__rank35	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	34983	41658	6675	top50_family38_motif_to_motif	complete	0.8753253870393205	35
+chimpanzee__chr23-hap1-hsa22__48337__rank36	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	48337	55012	6675	top50_family38_motif_to_motif	complete	0.8751883819701329	36
+chimpanzee__chr23-hap1-hsa22__68368__rank37	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr23_hap1_hsa22	68368	75037	6669	top50_family38_motif_to_motif	complete	0.8740923414166324	37
+chimpanzee__chr15-hap1-hsa14__7971229__rank38	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr15_hap1_hsa14	7971229	7978090	6861	top50_family38_motif_to_motif	complete	0.8712152349636937	38
+chimpanzee__chr15-hap1-hsa14__7978090__rank39	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr15_hap1_hsa14	7978090	7984953	6863	top50_family38_motif_to_motif	complete	0.8712152349636937	39
+chimpanzee__chr15-hap1-hsa14__7964370__rank40	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr15_hap1_hsa14	7964370	7971229	6859	top50_family38_motif_to_motif	complete	0.8705302096177558	40
+chimpanzee__chr15-hap1-hsa14__7957527__rank41	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr15_hap1_hsa14	7957527	7964370	6843	top50_family38_motif_to_motif	complete	0.869845184271818	41
+chimpanzee__chr15-hap1-hsa14__8068574__rank42	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr15_hap1_hsa14	8068574	8075473	6899	top50_family38_motif_to_motif	complete	0.8695711741334429	42
+chimpanzee__chr22-hap1-hsa21__3547191__rank43	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	3547191	3554068	6877	top50_family38_motif_to_motif	complete	0.8690231538566927	43
+chimpanzee__chr22-hap1-hsa21__3554068__rank44	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	3554068	3560949	6881	top50_family38_motif_to_motif	complete	0.8687491437183176	44
+chimpanzee__chr22-hap1-hsa21__3560949__rank45	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	3560949	3567833	6884	top50_family38_motif_to_motif	complete	0.8684751335799424	45
+chimpanzee__chr22-hap1-hsa21__3600453__rank46	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	3600453	3607342	6889	top50_family38_motif_to_motif	complete	0.8680641183723798	46
+chimpanzee__chr15-hap1-hsa14__8011319__rank47	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr15_hap1_hsa14	8011319	8018202	6883	top50_family38_motif_to_motif	complete	0.8677901082340047	47
+chimpanzee__chr22-hap1-hsa21__3593573__rank48	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	3593573	3600453	6880	top50_family38_motif_to_motif	complete	0.8677901082340047	48
+chimpanzee__chr22-hap1-hsa21__3540293__rank49	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr22_hap1_hsa21	3540293	3547191	6898	top50_family38_motif_to_motif	complete	0.8672420879572544	49
+chimpanzee__chr15-hap1-hsa14__8081502__rank50	chimpanzee	Chimpanzee	mPanTro3.dip.cur.20231122	chr15_hap1_hsa14	8081502	8088382	6880	top50_family38_motif_to_motif	complete	0.8669680778188793	50
+sumatran-orangutan__chr17-hap2-hsa18__227307__rank01	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	227307	234742	7435	top50_family38_motif_to_motif	complete	0.8683254875588433	1
+sumatran-orangutan__chr17-hap2-hsa18__115948__rank02	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	115948	122916	6968	top50_family38_motif_to_motif	complete	0.8581997533908754	2
+sumatran-orangutan__chr17-hap2-hsa18__171761__rank03	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	171761	178729	6968	top50_family38_motif_to_motif	complete	0.8580627483216879	3
+sumatran-orangutan__chr17-hap2-hsa18__129882__rank04	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	129882	136850	6968	top50_family38_motif_to_motif	complete	0.8579257432525004	4
+sumatran-orangutan__chr17-hap2-hsa18__122916__rank05	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	122916	129882	6966	top50_family38_motif_to_motif	complete	0.8576517331141252	5
+sumatran-orangutan__chr17-hap2-hsa18__143815__rank06	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	143815	150804	6989	top50_family38_motif_to_motif	complete	0.8569667077681874	6
+sumatran-orangutan__chr17-hap2-hsa18__150804__rank07	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	150804	157793	6989	top50_family38_motif_to_motif	complete	0.8569667077681874	7
+sumatran-orangutan__chr17-hap2-hsa18__157793__rank08	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	157793	164782	6989	top50_family38_motif_to_motif	complete	0.8569667077681874	8
+sumatran-orangutan__chr17-hap2-hsa18__213337__rank09	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	213337	220324	6987	top50_family38_motif_to_motif	complete	0.8564186874914372	9
+sumatran-orangutan__chr17-hap2-hsa18__220324__rank10	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	220324	227307	6983	top50_family38_motif_to_motif	complete	0.8557336621454994	10
+sumatran-orangutan__chr17-hap2-hsa18__164782__rank11	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	164782	171761	6979	top50_family38_motif_to_motif	complete	0.8555966570763118	11
+sumatran-orangutan__chr17-hap2-hsa18__192398__rank12	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	192398	199379	6981	top50_family38_motif_to_motif	complete	0.8555966570763118	12
+sumatran-orangutan__chr17-hap2-hsa18__206354__rank13	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	206354	213337	6983	top50_family38_motif_to_motif	complete	0.8555966570763118	13
+sumatran-orangutan__chr17-hap2-hsa18__199379__rank14	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	199379	206354	6975	top50_family38_motif_to_motif	complete	0.854911631730374	14
+sumatran-orangutan__chr17-hap2-hsa18__136850__rank15	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	136850	143815	6965	top50_family38_motif_to_motif	complete	0.8547746266611864	15
+sumatran-orangutan__chr15-hap2-hsa14__982589__rank16	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr15_hap2_hsa14	982589	989572	6983	top50_family38_motif_to_motif	complete	0.8532675709001233	16
+sumatran-orangutan__chr17-hap2-hsa18__178729__rank17	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	178729	185553	6824	top50_family38_motif_to_motif	complete	0.8427181805726812	17
+sumatran-orangutan__chr17-hap2-hsa18__185553__rank18	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr17_hap2_hsa18	185553	192398	6845	top50_family38_motif_to_motif	complete	0.8416221400191807	18
+sumatran-orangutan__chrY-hap2-hsaY__67165092__rank19	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67165092	67171777	6685	top50_family38_motif_to_motif	complete	0.8372379778051788	19
+sumatran-orangutan__chrY-hap2-hsaY__67243218__rank20	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67243218	67249920	6702	top50_family38_motif_to_motif	complete	0.8371009727359913	20
+sumatran-orangutan__chrY-hap2-hsaY__67210621__rank21	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67210621	67217323	6702	top50_family38_motif_to_motif	complete	0.8368269625976161	21
+sumatran-orangutan__chrY-hap2-hsaY__67178169__rank22	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67178169	67184726	6557	top50_family38_motif_to_motif	complete	0.8212083847102343	22
+sumatran-orangutan__chrY-hap2-hsaY__67191256__rank23	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67191256	67197797	6541	top50_family38_motif_to_motif	complete	0.8197013289491711	23
+sumatran-orangutan__chrY-hap2-hsaY__67223853__rank24	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67223853	67230394	6541	top50_family38_motif_to_motif	complete	0.8197013289491711	24
+sumatran-orangutan__chrY-hap2-hsaY__67288569__rank25	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67288569	67295122	6553	top50_family38_motif_to_motif	complete	0.8195643238799836	25
+sumatran-orangutan__chr11-hap1-hsa2b__607360__rank26	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap1_hsa2b	607360	613914	6554	top50_family38_motif_to_motif	complete	0.8187422934648582	26
+sumatran-orangutan__chr11-hap1-hsa2b__613914__rank27	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap1_hsa2b	613914	620468	6554	top50_family38_motif_to_motif	complete	0.8187422934648582	27
+sumatran-orangutan__chr11-hap1-hsa2b__639698__rank28	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap1_hsa2b	639698	646252	6554	top50_family38_motif_to_motif	complete	0.8187422934648582	28
+sumatran-orangutan__chrY-hap2-hsaY__67262830__rank29	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67262830	67269359	6529	top50_family38_motif_to_motif	complete	0.8184682833264831	29
+sumatran-orangutan__chrY-hap2-hsaY__67249920__rank30	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67249920	67256450	6530	top50_family38_motif_to_motif	complete	0.8183312782572956	30
+sumatran-orangutan__chrY-hap2-hsaY__67184726__rank31	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67184726	67191256	6530	top50_family38_motif_to_motif	complete	0.818194273188108	31
+sumatran-orangutan__chrY-hap2-hsaY__67217323__rank32	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67217323	67223853	6530	top50_family38_motif_to_motif	complete	0.818194273188108	32
+sumatran-orangutan__chr11-hap2-hsa2b__743599__rank33	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap2_hsa2b	743599	750149	6550	top50_family38_motif_to_motif	complete	0.8153171667351692	33
+sumatran-orangutan__chr11-hap2-hsa2b__763235__rank34	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap2_hsa2b	763235	769783	6548	top50_family38_motif_to_motif	complete	0.8151801616659816	34
+sumatran-orangutan__chr11-hap2-hsa2b__756689__rank35	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap2_hsa2b	756689	763235	6546	top50_family38_motif_to_motif	complete	0.8149061515276065	35
+sumatran-orangutan__chr11-hap2-hsa2b__750149__rank36	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap2_hsa2b	750149	756689	6540	top50_family38_motif_to_motif	complete	0.8146321413892315	36
+sumatran-orangutan__chrY-hap2-hsaY__67152306__rank37	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67152306	67158698	6392	top50_family38_motif_to_motif	complete	0.8027127003699137	37
+sumatran-orangutan__chrY-hap2-hsaY__67158698__rank38	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67158698	67165092	6394	top50_family38_motif_to_motif	complete	0.8025756953007261	38
+sumatran-orangutan__chrY-hap2-hsaY__67275748__rank39	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67275748	67282141	6393	top50_family38_motif_to_motif	complete	0.8024386902315386	39
+sumatran-orangutan__chrY-hap2-hsaY__67171777__rank40	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67171777	67178169	6392	top50_family38_motif_to_motif	complete	0.802301685162351	40
+sumatran-orangutan__chr22-hap2-hsa21__1067595__rank41	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr22_hap2_hsa21	1067595	1073984	6389	top50_family38_motif_to_motif	complete	0.8021646800931634	41
+sumatran-orangutan__chr22-hap2-hsa21__1180348__rank42	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr22_hap2_hsa21	1180348	1186737	6389	top50_family38_motif_to_motif	complete	0.8021646800931634	42
+sumatran-orangutan__chr22-hap2-hsa21__1538104__rank43	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr22_hap2_hsa21	1538104	1544535	6431	top50_family38_motif_to_motif	complete	0.8021646800931634	43
+sumatran-orangutan__chr22-hap2-hsa21__1412555__rank44	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr22_hap2_hsa21	1412555	1418980	6425	top50_family38_motif_to_motif	complete	0.8020276750239759	44
+sumatran-orangutan__chr22-hap2-hsa21__1557049__rank45	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr22_hap2_hsa21	1557049	1563472	6423	top50_family38_motif_to_motif	complete	0.8020276750239759	45
+sumatran-orangutan__chrY-hap2-hsaY__67197797__rank46	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67197797	67204186	6389	top50_family38_motif_to_motif	complete	0.8020276750239759	46
+sumatran-orangutan__chrY-hap2-hsaY__67230394__rank47	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67230394	67236783	6389	top50_family38_motif_to_motif	complete	0.8020276750239759	47
+sumatran-orangutan__chrY-hap2-hsaY__67269359__rank48	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chrY_hap2_hsaY	67269359	67275748	6389	top50_family38_motif_to_motif	complete	0.8020276750239759	48
+sumatran-orangutan__chr11-hap1-hsa2b__600949__rank49	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr11_hap1_hsa2b	600949	607360	6411	top50_family38_motif_to_motif	complete	0.8018906699547883	49
+sumatran-orangutan__chr22-hap2-hsa21__904829__rank50	sumatran-orangutan	Sumatran Orangutan	mPonAbe1.dip.cur.20231205	chr22_hap2_hsa21	904829	911216	6387	top50_family38_motif_to_motif	complete	0.8018906699547883	50
+bornean-orangutan__chr11-hap2-hsa2b__590878__rank01	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	590878	598003	7125	top50_family38_motif_to_motif	complete	0.8817646252911358	1
+bornean-orangutan__chrY-hap2-hsaY__48588640__rank02	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48588640	48595049	6409	top50_family38_motif_to_motif	complete	0.804493766269352	2
+bornean-orangutan__chrY-hap2-hsaY__48607819__rank03	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48607819	48614209	6390	top50_family38_motif_to_motif	complete	0.8031237155774764	3
+bornean-orangutan__chr17-hap1-hsa18__552111__rank04	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr17_hap1_hsa18	552111	558538	6427	top50_family38_motif_to_motif	complete	0.8028497054391013	4
+bornean-orangutan__chrY-hap2-hsaY__48601432__rank05	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48601432	48607819	6387	top50_family38_motif_to_motif	complete	0.8028497054391013	5
+bornean-orangutan__chrY-hap2-hsaY__48614209__rank06	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48614209	48620599	6390	top50_family38_motif_to_motif	complete	0.8027127003699137	6
+bornean-orangutan__chrY-hap2-hsaY__48595049__rank07	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48595049	48601432	6383	top50_family38_motif_to_motif	complete	0.8024386902315386	7
+bornean-orangutan__chr11-hap2-hsa2b__598003__rank08	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	598003	604412	6409	top50_family38_motif_to_motif	complete	0.8002466091245376	8
+bornean-orangutan__chr17-hap1-hsa18__545688__rank09	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr17_hap1_hsa18	545688	552111	6423	top50_family38_motif_to_motif	complete	0.80010960405535	9
+bornean-orangutan__chr22-hap1-hsa21__886072__rank10	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr22_hap1_hsa21	886072	892463	6391	top50_family38_motif_to_motif	complete	0.7999725989861625	10
+bornean-orangutan__chr11-hap2-hsa2b__617192__rank11	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	617192	623600	6408	top50_family38_motif_to_motif	complete	0.7998355939169749	11
+bornean-orangutan__chr11-hap2-hsa2b__636353__rank12	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	636353	642758	6405	top50_family38_motif_to_motif	complete	0.7992875736402247	12
+bornean-orangutan__chr11-hap2-hsa2b__610796__rank13	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	610796	617192	6396	top50_family38_motif_to_motif	complete	0.7990135635018496	13
+bornean-orangutan__chr23-hap2-hsa22__737244__rank14	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr23_hap2_hsa22	737244	743648	6404	top50_family38_motif_to_motif	complete	0.7990135635018496	14
+bornean-orangutan__chr11-hap2-hsa2b__629960__rank15	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	629960	636353	6393	top50_family38_motif_to_motif	complete	0.7986025482942869	15
+bornean-orangutan__chr11-hap2-hsa2b__584491__rank16	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	584491	590878	6387	top50_family38_motif_to_motif	complete	0.7983285381559118	16
+bornean-orangutan__chr11-hap2-hsa2b__604412__rank17	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	604412	610796	6384	top50_family38_motif_to_motif	complete	0.7980545280175366	17
+bornean-orangutan__chr16-hap1-hsa15__1274254__rank18	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap1_hsa15	1274254	1280649	6395	top50_family38_motif_to_motif	complete	0.7972324976024113	18
+bornean-orangutan__chr16-hap1-hsa15__1287046__rank19	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap1_hsa15	1287046	1293447	6401	top50_family38_motif_to_motif	complete	0.7961364570489108	19
+bornean-orangutan__chr16-hap1-hsa15__1280649__rank20	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap1_hsa15	1280649	1287046	6397	top50_family38_motif_to_motif	complete	0.7959994519797232	20
+bornean-orangutan__chr11-hap2-hsa2b__623600__rank21	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	623600	629960	6360	top50_family38_motif_to_motif	complete	0.7951774215645979	21
+bornean-orangutan__chr16-hap1-hsa15__1293447__rank22	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap1_hsa15	1293447	1299836	6389	top50_family38_motif_to_motif	complete	0.7947664063570352	22
+bornean-orangutan__chr16-hap1-hsa15__1261619__rank23	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap1_hsa15	1261619	1268001	6382	top50_family38_motif_to_motif	complete	0.7943553911494725	23
+bornean-orangutan__chrY-hap2-hsaY__48407977__rank24	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48407977	48414260	6283	top50_family38_motif_to_motif	complete	0.7881901630360324	24
+bornean-orangutan__chrY-hap2-hsaY__48389174__rank25	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48389174	48395451	6277	top50_family38_motif_to_motif	complete	0.7872311275517194	25
+bornean-orangutan__chrY-hap2-hsaY__48401702__rank26	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48401702	48407977	6275	top50_family38_motif_to_motif	complete	0.786409097136594	26
+bornean-orangutan__chrY-hap2-hsaY__48414260__rank27	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48414260	48420520	6260	top50_family38_motif_to_motif	complete	0.7855870667214687	27
+bornean-orangutan__chrY-hap2-hsaY__48395451__rank28	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48395451	48401702	6251	top50_family38_motif_to_motif	complete	0.7843540210987807	28
+bornean-orangutan__chr11-hap2-hsa2b__736182__rank29	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	736182	742461	6279	top50_family38_motif_to_motif	complete	0.7840800109604056	29
+bornean-orangutan__chr16-hap2-hsa15__995144__rank30	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap2_hsa15	995144	1001415	6271	top50_family38_motif_to_motif	complete	0.7840800109604056	30
+bornean-orangutan__chrY-hap2-hsaY__48433004__rank31	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48433004	48439246	6242	top50_family38_motif_to_motif	complete	0.7840800109604056	31
+bornean-orangutan__chrY-hap2-hsaY__48426746__rank32	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48426746	48433004	6258	top50_family38_motif_to_motif	complete	0.783943005891218	32
+bornean-orangutan__chrY-hap2-hsaY__48563738__rank33	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48563738	48569974	6236	top50_family38_motif_to_motif	complete	0.783943005891218	33
+bornean-orangutan__chr11-hap1-hsa2b__1001218__rank34	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap1_hsa2b	1001218	1007498	6280	top50_family38_motif_to_motif	complete	0.7836689957528429	34
+bornean-orangutan__chrY-hap2-hsaY__48451712__rank35	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48451712	48457950	6238	top50_family38_motif_to_motif	complete	0.7836689957528429	35
+bornean-orangutan__chr16-hap2-hsa15__976510__rank36	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap2_hsa15	976510	982779	6269	top50_family38_motif_to_motif	complete	0.7835319906836553	36
+bornean-orangutan__chrY-hap2-hsaY__48439246__rank37	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48439246	48445477	6231	top50_family38_motif_to_motif	complete	0.7835319906836553	37
+bornean-orangutan__chr11-hap2-hsa2b__748726__rank38	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	748726	754987	6261	top50_family38_motif_to_motif	complete	0.7833949856144677	38
+bornean-orangutan__chr16-hap2-hsa15__1013625__rank39	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap2_hsa15	1013625	1019894	6269	top50_family38_motif_to_motif	complete	0.7833949856144677	39
+bornean-orangutan__chr16-hap2-hsa15__1019894__rank40	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap2_hsa15	1019894	1026157	6263	top50_family38_motif_to_motif	complete	0.7833949856144677	40
+bornean-orangutan__chr16-hap2-hsa15__988891__rank41	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr16_hap2_hsa15	988891	995144	6253	top50_family38_motif_to_motif	complete	0.7832579805452802	41
+bornean-orangutan__chr17-hap1-hsa18__558538__rank42	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr17_hap1_hsa18	558538	564800	6262	top50_family38_motif_to_motif	complete	0.7832579805452802	42
+bornean-orangutan__chrY-hap2-hsaY__48576190__rank43	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48576190	48582422	6232	top50_family38_motif_to_motif	complete	0.7832579805452802	43
+bornean-orangutan__chr14-hap1-hsa13__1926835__rank44	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr14_hap1_hsa13	1926835	1933098	6263	top50_family38_motif_to_motif	complete	0.7831209754760926	44
+bornean-orangutan__chr14-hap1-hsa13__2021011__rank45	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr14_hap1_hsa13	2021011	2027280	6269	top50_family38_motif_to_motif	complete	0.7831209754760926	45
+bornean-orangutan__chr17-hap1-hsa18__876231__rank46	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr17_hap1_hsa18	876231	882508	6277	top50_family38_motif_to_motif	complete	0.7831209754760926	46
+bornean-orangutan__chr11-hap2-hsa2b__742461__rank47	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr11_hap2_hsa2b	742461	748726	6265	top50_family38_motif_to_motif	complete	0.782983970406905	47
+bornean-orangutan__chr14-hap1-hsa13__1970714__rank48	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr14_hap1_hsa13	1970714	1977001	6287	top50_family38_motif_to_motif	complete	0.782983970406905	48
+bornean-orangutan__chrY-hap2-hsaY__48420520__rank49	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chrY_hap2_hsaY	48420520	48426746	6226	top50_family38_motif_to_motif	complete	0.782983970406905	49
+bornean-orangutan__chr14-hap1-hsa13__2027280__rank50	bornean-orangutan	Bornean Orangutan	mPonPyg2.dip.cur.20231122	chr14_hap1_hsa13	2027280	2033540	6260	top50_family38_motif_to_motif	complete	0.7828469653377175	50
+siamang-hap1__CM054525.2__17753279__rank01	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17753279	17759772	6493	near_complete_reference_unit_mapping	complete	0.5639128647759968	1
+siamang-hap1__CM054525.2__17722493__rank02	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17722493	17728499	6006	near_complete_reference_unit_mapping	complete	0.5571996163858063	2
+siamang-hap1__CM054525.2__17710374__rank03	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17710374	17716366	5992	near_complete_reference_unit_mapping	complete	0.556377585970681	3
+siamang-hap1__CM054525.2__17704316__rank04	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17704316	17710308	5992	near_complete_reference_unit_mapping	complete	0.5562405809014934	4
+siamang-hap1__CM054525.2__17716432__rank05	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17716432	17722428	5996	near_complete_reference_unit_mapping	complete	0.5562405809014934	5
+siamang-hap1__CM054525.2__17821600__rank06	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17821600	17827678	6078	near_complete_reference_unit_mapping	complete	0.5558295656939307	6
+siamang-hap1__CM054525.2__17661343__rank07	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17661343	17667411	6068	near_complete_reference_unit_mapping	complete	0.5555555555555556	7
+siamang-hap1__CM054525.2__17692238__rank08	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17692238	17698210	5972	near_complete_reference_unit_mapping	complete	0.5547335251404302	8
+siamang-hap1__CM054525.2__17698275__rank09	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17698275	17704251	5976	near_complete_reference_unit_mapping	complete	0.5543225099328675	9
+siamang-hap1__CM054525.2__17790793__rank10	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17790793	17796849	6056	near_complete_reference_unit_mapping	complete	0.5541855048636799	10
+siamang-hap1__CM054525.2__17648952__rank11	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17648952	17655094	6142	near_complete_reference_unit_mapping	complete	0.5540484997944923	11
+siamang-hap1__CM054525.2__17803157__rank12	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17803157	17809153	5996	near_complete_reference_unit_mapping	complete	0.5539114947253048	12
+siamang-hap1__CM054525.2__17728564__rank13	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17728564	17734686	6122	near_complete_reference_unit_mapping	complete	0.5537744896561172	13
+siamang-hap1__CM054525.2__17772203__rank14	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17772203	17778343	6140	near_complete_reference_unit_mapping	complete	0.5537744896561172	14
+siamang-hap1__CM054525.2__17624172__rank15	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17624172	17630296	6124	near_complete_reference_unit_mapping	complete	0.5533634744485546	15
+siamang-hap1__CM054525.2__17833974__rank16	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17833974	17840103	6129	near_complete_reference_unit_mapping	complete	0.553226469379367	16
+siamang-hap1__CM054525.2__17686057__rank17	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17686057	17692115	6058	near_complete_reference_unit_mapping	complete	0.5529524592409919	17
+siamang-hap1__CM054525.2__17673707__rank18	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17673707	17679757	6050	near_complete_reference_unit_mapping	complete	0.5528154541718043	18
+siamang-hap1__CM054525.2__17612401__rank19	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17612401	17618505	6104	near_complete_reference_unit_mapping	complete	0.5525414440334293	19
+siamang-hap1__CM054525.2__17642766__rank20	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17642766	17648888	6122	near_complete_reference_unit_mapping	complete	0.5525414440334293	20
+siamang-hap1__CM054525.2__17679880__rank21	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17679880	17685934	6054	near_complete_reference_unit_mapping	complete	0.5525414440334293	21
+siamang-hap1__CM054525.2__17815411__rank22	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17815411	17821535	6124	near_complete_reference_unit_mapping	complete	0.5524044389642417	22
+siamang-hap1__CM054525.2__17667534__rank23	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17667534	17673584	6050	near_complete_reference_unit_mapping	complete	0.5522674338950542	23
+siamang-hap1__CM054525.2__17766026__rank24	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17766026	17772138	6112	near_complete_reference_unit_mapping	complete	0.5522674338950542	24
+siamang-hap1__CM054525.2__17630362__rank25	siamang-hap1	Siamang haplotype 1	Siamang_hap1	CM054525.2	17630362	17636500	6138	near_complete_reference_unit_mapping	complete	0.5521304288258666	25
+siamang-hap2__CM054551.2__22835082__rank01	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22835082	22841066	5984	near_complete_reference_unit_mapping	complete	0.5552815454171804	1
+siamang-hap2__CM054551.2__22619257__rank02	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22619257	22625231	5974	near_complete_reference_unit_mapping	complete	0.5551445403479929	2
+siamang-hap2__CM054551.2__22736837__rank03	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22736837	22742818	5981	near_complete_reference_unit_mapping	complete	0.5550075352788053	3
+siamang-hap2__CM054551.2__22792384__rank04	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22792384	22798367	5983	near_complete_reference_unit_mapping	complete	0.5550075352788053	4
+siamang-hap2__CM054551.2__22749077__rank05	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22749077	22755060	5983	near_complete_reference_unit_mapping	complete	0.5547335251404302	5
+siamang-hap2__CM054551.2__22816976__rank06	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22816976	22822946	5970	near_complete_reference_unit_mapping	complete	0.5547335251404302	6
+siamang-hap2__CM054551.2__22829046__rank07	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22829046	22835018	5972	near_complete_reference_unit_mapping	complete	0.5547335251404302	7
+siamang-hap2__CM054551.2__22847166__rank08	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22847166	22853142	5976	near_complete_reference_unit_mapping	complete	0.554459515002055	8
+siamang-hap2__CM054551.2__22976010__rank09	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22976010	22981998	5988	near_complete_reference_unit_mapping	complete	0.554459515002055	9
+siamang-hap2__CM054551.2__22650032__rank10	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22650032	22656013	5981	near_complete_reference_unit_mapping	complete	0.5543225099328675	10
+siamang-hap2__CM054551.2__22780292__rank11	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22780292	22786269	5977	near_complete_reference_unit_mapping	complete	0.5543225099328675	11
+siamang-hap2__CM054551.2__22823010__rank12	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22823010	22828982	5972	near_complete_reference_unit_mapping	complete	0.5543225099328675	12
+siamang-hap2__CM054551.2__22687618__rank13	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22687618	22693599	5981	near_complete_reference_unit_mapping	complete	0.5541855048636799	13
+siamang-hap2__CM054551.2__22693666__rank14	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22693666	22699647	5981	near_complete_reference_unit_mapping	complete	0.5541855048636799	14
+siamang-hap2__CM054551.2__22786334__rank15	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22786334	22792319	5985	near_complete_reference_unit_mapping	complete	0.5541855048636799	15
+siamang-hap2__CM054551.2__22841130__rank16	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22841130	22847102	5972	near_complete_reference_unit_mapping	complete	0.5541855048636799	16
+siamang-hap2__CM054551.2__22902004__rank17	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22902004	22907990	5986	near_complete_reference_unit_mapping	complete	0.5541855048636799	17
+siamang-hap2__CM054551.2__22982063__rank18	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22982063	22988053	5990	near_complete_reference_unit_mapping	complete	0.5540484997944923	18
+siamang-hap2__CM054551.2__22656078__rank19	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22656078	22662070	5992	near_complete_reference_unit_mapping	complete	0.5539114947253048	19
+siamang-hap2__CM054551.2__22681565__rank20	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22681565	22687551	5986	near_complete_reference_unit_mapping	complete	0.5537744896561172	20
+siamang-hap2__CM054551.2__22810942__rank21	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22810942	22816912	5970	near_complete_reference_unit_mapping	complete	0.5537744896561172	21
+siamang-hap2__CM054551.2__22883714__rank22	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22883714	22889704	5990	near_complete_reference_unit_mapping	complete	0.5537744896561172	22
+siamang-hap2__CM054551.2__22853206__rank23	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22853206	22859174	5968	near_complete_reference_unit_mapping	complete	0.5536374845869297	23
+siamang-hap2__CM054551.2__22865435__rank24	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22865435	22871425	5990	near_complete_reference_unit_mapping	complete	0.5536374845869297	24
+siamang-hap2__CM054551.2__22871493__rank25	siamang-hap2	Siamang haplotype 2	Siamang_hap2	CM054551.2	22871493	22877457	5964	near_complete_reference_unit_mapping	complete	0.5536374845869297	25
+marmoset-partial__CM111806.1__38743952__best-fragment	marmoset-partial	Marmoset (partial tract)	GCA_049354715.1	CM111806.1	38743952	38747628	3676	best_partial_reference_unit_mapping	partial	0.42649678038087413	1

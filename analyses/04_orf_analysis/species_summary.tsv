@@ -1,0 +1,10 @@
+key	species	assembly	arrays_total	arrays_tested	arrays_without_147bp_call	total_de_novo_tracts	arrays_with_at_least_one_zero_stop_frame_10x	fraction_arrays_with_zero_stop_frame_10x	mean_observed_atg_open_aa_10x	mean_null_atg_open_aa_10x	aggregate_p_atg_open	mean_observed_stopfree_aa_10x	mean_null_stopfree_aa_10x	aggregate_p_stopfree	median_actual_tract_atg_open_aa	median_actual_tract_stopfree_aa	status
+CHM13	Human	T2T-CHM13v2.0	32	29	3	233	19	0.6551724138	224.9310345	101.6774706	0.001	367.3793103	304.9034552	0.002	333	454	ok
+HG002	Human	HG002v1.1	69	63	6	570	44	0.6984126984	285.4761905	104.9689213	0.001	381.9047619	291.7343375	0.001	375	478	ok
+Gorilla	Gorilla	mGorGor1	184	177	7	1278	85	0.4802259887	235.920904	101.7679601	0.001	306.6723164	277.0815109	0.001	287	382	ok
+Chimpanzee	Chimpanzee	mPanTro3	121	117	4	2509	78	0.6666666667	284.1196581	127.1523404	0.001	373.1794872	343.1028037	0.002	330	469	ok
+Bonobo	Bonobo	mPanPan1	251	247	4	3058	190	0.7692307692	364.3643725	155.2871981	0.001	408.7004049	371.2184249	0.001	330	475	ok
+Sumatran_orangutan	Sumatran orangutan	mPonAbe1	45	39	6	711	20	0.5128205128	269.025641	89.06601473	0.001	316.1538462	259.4806601	0.001	318	463	ok
+Bornean_orangutan	Bornean orangutan	mPonPyg2	39	33	6	943	26	0.7878787879	380.8787879	87.69745503	0.001	408.3636364	247.665969	0.001	569	574	ok
+Gibbon	Siamang gibbon	mSymSyn1	NA	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	no_matching_fasta
+Marmoset	Common marmoset	calJac240_pri.v1.1	NA	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	no_matching_fasta

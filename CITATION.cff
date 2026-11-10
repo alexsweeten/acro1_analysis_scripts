@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these analysis scripts, please cite the associated manuscript and this repository."
+title: "ACRO1 manuscript analysis scripts"
+type: software
+authors:
+  - family-names: Sweeten
+    given-names: Alex
+repository-code: "https://github.com/alexsweeten/acro1_analysis_scripts"
+url: "https://github.com/alexsweeten/acro1_analysis_scripts"
+version: 0.1.0
+date-released: 2026-11-09
+license: MIT
+

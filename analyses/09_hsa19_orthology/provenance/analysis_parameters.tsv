@@ -1,0 +1,11 @@
+parameter	value
+human_reference_locus	chr19_MATERNAL:46792595-46858137
+anchor_count	10
+anchor_length_bp	20000
+anchor_min_coverage_after_fragment_chaining	0.35
+anchor_min_identity	0.65
+minimum_valid_chain_anchors	4
+ortholog_window_padding_bp	50000
+ACRO1_HMM_min_coverage	0.45
+ACRO1_HMM_max_evalue	0.001
+coordinates	zero-based_half-open

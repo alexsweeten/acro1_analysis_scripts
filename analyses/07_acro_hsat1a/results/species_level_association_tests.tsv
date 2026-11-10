@@ -1,0 +1,7 @@
+test	scope	statistic_name	statistic	standard_error	p_one_sided	p_two_sided	n	interpretation
+Exact tip permutation Spearman	all six species; primary acrocentrics	rho	0.985610760609162	NA	0.00277777777777778	0.00555555555555556	6	Non-phylogenetic species permutation
+Exact tip permutation Spearman	all six species; genome-wide	rho	0.753702346348183	NA	0.0527777777777778	0.105555555555556	6	Non-phylogenetic genome-wide sensitivity
+Exact tip permutation Spearman	HSAT1A-positive species only; primary acrocentrics	rho	1	NA	0.0416666666666667	0.0833333333333333	4	Non-phylogenetic positive-clade sensitivity
+PGLS Brownian, Grafen branch lengths	all six species	log-log slope	3.39547265698522	3.30498254103906	0.181153202916343	0.362306405832686	6	Primary phylogenetic sensitivity
+PGLS Brownian, unit branch lengths	all six species	log-log slope	4.10703614580724	3.49702849355341	0.152683126651506	0.305366253303013	6	Branch-length sensitivity
+PGLS Brownian, Grafen branch lengths	HSAT1A-positive species only	log-log slope	0.875481265951219	0.411978348994781	0.0837492287117665	0.167498457423533	4	Positive-clade phylogenetic sensitivity

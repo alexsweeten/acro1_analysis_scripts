@@ -1,0 +1,11 @@
+metric	value
+source_rows	1275
+rows_removed	3
+final_rows	1272
+anchors_shifted_right_one_unit	7
+anchors_shifted_left_one_unit	390
+unchanged_rows	875
+adjusted_C1_to_C2	784
+adjusted_C6_to_C2	331
+adjusted_C2_to_C2	30
+edge_unavailable	83
